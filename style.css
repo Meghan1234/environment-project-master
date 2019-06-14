@@ -1,0 +1,130 @@
+h1{display:flex;
+justify-content:center;
+font-size:50px;
+border: solid 10px;
+border-color: turquoise;
+}
+
+.slideZero{
+
+background-image: url("./photos/planets.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+
+
+}
+.title{ display:flex;
+justify-content:center;
+margin-top:400px;
+font-size:50px;
+color:white;
+
+}
+
+
+
+.slideOne{
+    background-image: url("./photos/climate-change2.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+font-size:30px;
+
+}
+
+.slideTwo{
+       background-image: url("./photos/CORAL.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+font-size:30px;
+
+
+}
+
+
+
+.slideThree{
+    background-image: url("./photos/deforestation.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+font-size:30px}
+
+.slideFour{
+background-image: url(https://assets3.thrillist.com/v1/image/2748108/size/sk-2017_04_article_main_mobile.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+font-size: 30px;
+
+
+}
+
+.slideFive{
+ background-image: url(https://static.skylinehawaii.com/_wide/haleakala-sunrise-01.jpg?mtime=20171114063812);
+ background-repeat: no-repeat;
+background-size: cover;
+height:100%;
+ color: black;
+ font-size: 80px;
+ margin-top:275px;
+
+}
+
+.slideSix{
+ background-image: url(https://blogs.imf.org/wp-content/uploads/2018/06/BLOG-1024x600-Polar-Bear-on-Shrinking-Ice-Sven-Erik-Arndt-Universal-Images-Group-Newscom-uigphotos235623.jpguigphotos235623.jpg);
+ background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    font-size: 30px;
+ height:100%;
+ }
+
+.slideSeven{
+background-image: url(https://img4.goodfon.com/wallpaper/nbig/0/67/cherepakha-more-morskaia-cherepakha.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 30px;
+ }
+
+ .slideEight{
+  background-image: url(./photos/forest.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+    color: white;
+    font-size: 30px;
+
+
+}
+
+.slideNine{
+    background-image: url(./photos/mountain.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+  color: white;
+    font-size: 30px;
+}
+
+.slideTen{
+background-image: url(./photos/save-the-earth.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+  color: white;
+    font-size: 30px;
+}
+
+
+button{
+width: 200px;
+margin-left: 600px;
+border-radius: 20px;
+border: solid 2px;
+color: turquoise;
+height: 30px;
+
+
+
+}
+
